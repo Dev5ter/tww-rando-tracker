@@ -3,6 +3,15 @@
 - Only start with swift sail
 - Back to old style of this tracker with html/css instead of node
 
+# To-Run
+- Extract the ZIP File
+- Open index.html via a web browser (Google Chrome, OperaGX etc)
+- Since there isn't actually settings at this time please just select 'Launch New Tracker'
+
+# Credits
+- Obvious credit to [wooferzfg](https://github.com/wooferzfg) as he did most of the work. I just tweaked it.
+
+# ORIGINAL DOCUMENTATION
 # TWW Randomizer Tracker
 
 [![Build Status](https://github.com/wooferzfg/tww-rando-tracker/workflows/CI/badge.svg)](https://github.com/wooferzfg/tww-rando-tracker/actions)
