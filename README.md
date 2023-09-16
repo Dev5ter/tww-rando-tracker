@@ -1,5 +1,5 @@
 # FORK CHANGES
-- Only supported locations show up
+- Only ww.apworld supported locations show up
 - Only start with swift sail
 - Back to old style of this tracker with html/css instead of node
 
