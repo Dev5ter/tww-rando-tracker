@@ -1,3 +1,8 @@
+# FORK CHANGES
+- Only supported locations show up
+- Only start with swift sail
+- Back to old style of this tracker with html/css instead of node
+
 # TWW Randomizer Tracker
 
 [![Build Status](https://github.com/wooferzfg/tww-rando-tracker/workflows/CI/badge.svg)](https://github.com/wooferzfg/tww-rando-tracker/actions)
